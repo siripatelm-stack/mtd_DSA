@@ -1,1 +1,2 @@
 this is to create git tags 
+also undestanding diff uses
