@@ -1,5 +1,5 @@
 this is to create git tags 
-<<<<<<< HEAD
 also undestanding diff uses => 7d62d89 (made changes)
-=======
->>>>>>> 7d62d89 (made changes)
+==> 7d62d89 (made changes)
+also undestanding diff uses
+==>> fb124fe (wrote some lines)
